@@ -15,28 +15,28 @@ Pada tutorial ini Anda akan mempelajari bagaimana cara membuat halaman website s
 
 Dibawah ini adalah syllabus tutorial HTML :
 
-* **JSON Dasar**
-* [Pengertian HTML](https://kelastutorial.com/html/pengenalan-json.html)
-* [Sejarah HTML](https://kelastutorial.com/html/syntax-penulisan-json.html)
-* [Versi HTML](https://kelastutorial.com/html/tipe-data-json.html)
+ **HTML Dasar**
+* [Pengertian HTML](https://kelastutorial.com/html/)
+* [Sejarah HTML](https://kelastutorial.com/html/)
+* [Versi HTML](https://kelastutorial.com/html/)
 
-* **JSON Dasar**
-* [Syntax Dasar HTML](https://kelastutorial.com/html/pengenalan-json.html)
-* [Elemen HTML](https://kelastutorial.com/html/syntax-penulisan-json.html)
-* [Atribut HTML](https://kelastutorial.com/html/tipe-data-json.html)
-* [Atribut Khusus HTML](https://kelastutorial.com/html/objek-json.html)
-* [Event HTML](https://kelastutorial.com/html/schema-json.html)
-* [Form HTML](https://kelastutorial.com/html/pengenalan-json.html)
-* [SVG HTML](https://kelastutorial.com/html/syntax-penulisan-json.html)
-* [Layout HTML](https://kelastutorial.com/html/tipe-data-json.html)
-* [Audio HTML](https://kelastutorial.com/html/objek-json.html)
-* [Video HTML](https://kelastutorial.com/html/schema-json.html)
+ **HTML Dasar**
+* [Syntax Dasar HTML](https://kelastutorial.com/html/)
+* [Elemen HTML](https://kelastutorial.com/html/)
+* [Atribut HTML](https://kelastutorial.com/html/)
+* [Atribut Khusus HTML](https://kelastutorial.com/html/)
+* [Event HTML](https://kelastutorial.com/html/)
+* [Form HTML](https://kelastutorial.com/html/)
+* [SVG HTML](https://kelastutorial.com/html/)
+* [Layout HTML](https://kelastutorial.com/html/)
+* [Audio HTML](https://kelastutorial.com/html/)
+* [Video HTML](https://kelastutorial.com/html/)
 
-* **JSON Dasar**
-* [Geolocation HTML](https://kelastutorial.com/json/pengenalan-json.html)
-* [Microdata Penulisan HTML](https://kelastutorial.com/json/syntax-penulisan-json.html)
-* [Drag & Drop HTML](https://kelastutorial.com/json/tipe-data-json.html)
-* [Layout Responsive HTML](https://kelastutorial.com/json/objek-json.html)
+ **HTML Dasar**
+* [Geolocation HTML](https://kelastutorial.com/html/)
+* [Microdata Penulisan HTML](https://kelastutorial.com/html/)
+* [Drag & Drop HTML](https://kelastutorial.com/html/)
+* [Layout Responsive HTML](https://kelastutorial.com/html)
 
 
 
